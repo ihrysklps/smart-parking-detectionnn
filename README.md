@@ -46,6 +46,7 @@ python main.py
 ## 📊 Output
 
 Shows number of free parking slots on screen.
+
 ![Output Image](output.png)
 
 ## ⚠️ Challenges
